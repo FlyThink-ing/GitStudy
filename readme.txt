@@ -8,3 +8,4 @@ add a new merge
 add fast 
 add test
 add test2
+add test6
