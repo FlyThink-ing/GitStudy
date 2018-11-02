@@ -7,3 +7,4 @@ branch and to
 add new merge
 add fast 
 add test
+add test2
