@@ -7,5 +7,4 @@ branch and to
 add new merges
 add fast 
 A1
-A3
-
+A2
